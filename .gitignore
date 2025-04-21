@@ -36,3 +36,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Inore IDEA project files
+*.iml
+
+# Ignore all in IDEA configuration folder
+.idea/
